@@ -1,15 +1,16 @@
 {
-    "name": "yiistack/_____",
+    "name": "yiistack/inertia",
     "type": "library",
-    "description": "_____",
+    "description": "Yii Inertia Library",
     "keywords": [
-        "_____"
+        "yii3",
+        "inertia"
     ],
     "homepage": "https://github.com/yiistack",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/yiistack/_____/issues?state=open",
-        "source": "https://github.com/yiistack/_____"
+        "issues": "https://github.com/yiistack/inertia/issues?state=open",
+        "source": "https://github.com/yiistack/inertia"
     },
     "require": {
         "php": "^7.4|^8.0"
@@ -22,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Yiistack\\_____\\": "src"
+            "Yiistack\\Inertia\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Yiistack\\_____\\Tests\\": "tests"
+            "Yiistack\\Inertia\\Tests\\": "tests"
         }
     },
     "extra": {
